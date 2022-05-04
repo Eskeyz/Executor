@@ -1,0 +1,7 @@
+Hello !
+
+Dont delete .dll Files 
+( if you delete, app can't run )
+
+Discord : discord.io/EskeyServer
+-Eskey
